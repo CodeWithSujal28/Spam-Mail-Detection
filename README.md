@@ -1,4 +1,4 @@
-# 📧 Spam Mail Detection using Machine Learning
+# 🚨 Spam Mail Detection using Machine Learning
 
 This project is a **Spam Mail Detection system** built using **Machine Learning (Logistic Regression)** and deployed using **Flask** with a clean HTML & CSS user interface.
 
